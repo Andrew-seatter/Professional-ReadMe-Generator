@@ -2,19 +2,19 @@
 function renderLicenseBadge(license) {
   switch(license) {
     case 'MIT license':
-      return '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)';
+      return '![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)';
 
     case 'Berkeley Software Distribution License (BSD)':
-      return '[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)';
+      return '![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)';
 
     case 'GNU General Public License':
-      return '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)';
+      return '![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)';
 
     case 'Apache License 2.0':
-      return '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]';
+      return '![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]';
       
     case 'Internet Systems Consortium (ISC) License':
-      return '[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)]';
+      return '![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)]';
       
     case 'N/A':
       return '';  

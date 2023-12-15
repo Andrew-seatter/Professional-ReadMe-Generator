@@ -1,10 +1,10 @@
-# Profesional-ReadMe-Generator
+# Andrew's Project
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 ## Description
 
-It is a read me generator built on node js utilizing the file system and inquirer packages
+its about a readme generator
 
 ## Table of Contents
 
@@ -16,20 +16,15 @@ It is a read me generator built on node js utilizing the file system and inquire
 - [Tests](#tests)
 ## Installation
 
-1. Fork and clone the repository
-2. Open an integrated terminal
-3. run the command "npm i"
-4. Open an integrated terminal in the assets folder
-5. Run the command "node index.js"
-6. Answer your questions and you get your genrated README.md
+nope
 
 ## Usage
 
-Used for generating ReadMe's in any of your projects in repository
+its's used as a readmne generator
 
-[Example-Video]('./assets/Example-Video.mp4')
+
 ## Credits
-N/A
+ok
 
 ## License
 <2023> <Andrew-Seatter>
@@ -41,6 +36,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 https://opensource.org/licenses/MIT
 ## Questions
 Andrew-Seatter
-seatter.an@gmail.com
+seatter.an@Gmail.com
 
 I can be reached for questions about the project via email or my github profile
+
+## Tests
+
+nope
