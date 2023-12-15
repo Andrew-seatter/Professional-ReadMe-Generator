@@ -1,4 +1,4 @@
-// TODO: Include packages needed for this application
+
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./generateMarkdown');
@@ -19,6 +19,11 @@ const questions =
     },
     {
       type: 'input',
+      name: 'installation',
+      message: 'Are there any installation steps'
+    },
+    {
+      type: 'input',
       name: 'Usage',
       message: 'Provide a short description about the usage',
     },
@@ -36,7 +41,8 @@ const questions =
         'MIT license',
         'GNU General Public License',
         'Apache License 2.0',
-        'Internet Systems Consortium (ISC) License'
+        'Internet Systems Consortium (ISC) License',
+        'N/A'
       ]
     },
     {
@@ -48,6 +54,11 @@ const questions =
       type: 'input',
       name: 'email',
       message: 'What is your Email address'
+    },
+    {
+      type: 'input',
+      name: 'tests',
+      message: 'Are there any tests that need to be run?'
     }
   ];
   
