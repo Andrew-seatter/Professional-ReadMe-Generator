@@ -27,7 +27,7 @@ It is a read me generator built on node js utilizing the file system and inquire
 
 Used for generating ReadMe's in any of your projects in repository
 
-[Example-Video]("chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/5d1e098a-dc24-4129-y286-5d1a97854bce")
+[Example]("https://drive.google.com/file/d/1KE7jOweYCyWvoyylj9OQ9yQZTYfzuGHl/view")
 ## Credits
 N/A
 
